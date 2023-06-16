@@ -1,0 +1,17 @@
+.icon{
+    margin-top: 4px;
+    margin-right: 25px;
+    color: darkred;
+}
+
+.icon:hover{
+    color: red;
+}
+
+.edit{
+    color: black;
+}
+
+.edit:hover{
+    color: grey;
+}
